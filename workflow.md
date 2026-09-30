@@ -9,7 +9,7 @@ This documentation covers the step-by-step workflow for deploying, securing, and
 The physical environment is structured into distinct zones across a residential setup, connecting broadband WAN to local LAN hosts.
 
 <p align="center">
-  <img src="assets/houselay out.jpg" width="100%" alt="Packet Tracer Physical Layout" />
+  <img src="assets/houselay out.png" width="100%" alt="Packet Tracer Physical Layout" />
 </p>
 
 * **WAN Ingress:** Coaxial connection entering via the **Cable Splitter**, delivering internet data to the **Cable Modem** and video signal to the **TV**.
@@ -40,7 +40,7 @@ Once the network infrastructure is established, endpoints dynamically request IP
     </td>
     <td width="50%" align="center" valign="top">
       <h4>Laptop Wireless Configuration</h4>
-      <img src="assets/ip laptop.jpg" width="100%" alt="Laptop IP Settings" />
+      <img src="assets/ip laptop.png" width="100%" alt="Laptop IP Settings" />
       <p align="left">
         <b>Interface:</b> Wireless0<br>
         <b>IPv4 Address:</b> <code>192.168.0.2</code><br>
