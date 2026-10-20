@@ -1,4 +1,4 @@
-# 📡 Cisco Packet Tracer: Home Wireless Router & Client Configuration
+# 📡 Cisco Packet Tracer: Home Wireless Router & Client Configuration.
 
 A hands-on networking lab demonstrating the end-to-end setup of a SOHO (Small Office/Home Office) network using Cisco Packet Tracer. This project covers physical media connections (coaxial, copper straight-through), SOHO wireless router configuration, WPA2-Personal security implementation, DHCP scope management, and end-to-end connectivity verification.
 
